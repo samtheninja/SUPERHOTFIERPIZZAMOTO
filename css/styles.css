@@ -35,12 +35,13 @@
   position: relative;
   text-align: center;
   font-size: x-large;
-  /* height: 150vh; */
+  height: 100vh;
+  padding-top: 30vh;
 }
 .about P{
   padding-top: 300PX;
 }
-.menu{
+#menu{
   background-image: url("../img/wood-texture-background-pine-82256.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,6 +49,8 @@
   text-align: center;
   padding-bottom: 50px;
   margin-bottom: 20px;
+  height: 100vh;
+  padding-top: 10vh;
 }
 .card1{
   background-repeat: no-repeat;
@@ -55,6 +58,34 @@
   position: relative;
   height: 100px;
 }
-.contact{
+#contact{
   text-align: center;
+  background-image: url("../img/wood-texture-background-pine-82256.jpg");
+  height: 90vh;
+  padding-top: 30vh;
+}
+.ca1 {
+  height: 10vh;
+  width: 50vh;
+  align: center;
+  /* padding-left: 10vh; */
+
+}
+.row {
+  align-items: center;
+  color: brown;
+}
+.ca2  {
+  height: 10vh;
+  width: 50vh;
+  align: center;
+  /* padding-left: 10vh; */
+
+}
+.ca3  {
+  height: 10vh;
+  width: 50vh;
+  align: center;
+  /* padding-left: 10vh; */
+
 }
