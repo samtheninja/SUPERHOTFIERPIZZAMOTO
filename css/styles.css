@@ -1,0 +1,60 @@
+.container1  {
+  
+  /* width: 100vh; */
+  background-image: url("../img/pizza-on-plate-2271194.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* position: relative; */
+  text-align: center;
+  height: 100vh;
+  
+}
+#txtmainh2{
+  padding-top: 250px;
+  font-weight: 900;
+  color: white;
+  font-style: oblique;
+  font-size: xxx-large;
+  
+
+}
+#txtx{
+  padding-top: 225PX;
+  padding-bottom: 20px;
+  color:brown ;
+  font-weight: 900;
+  size: 120px;
+}
+.nav{
+  text-align: center;
+}
+#about{
+  background-image: url("../img/wood-texture-background-pine-82256.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  font-size: x-large;
+  /* height: 150vh; */
+}
+.about P{
+  padding-top: 300PX;
+}
+.menu{
+  background-image: url("../img/wood-texture-background-pine-82256.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+}
+.card1{
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100px;
+}
+.contact{
+  text-align: center;
+}
